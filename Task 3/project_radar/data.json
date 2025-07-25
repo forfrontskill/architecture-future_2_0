@@ -1,0 +1,212 @@
+{
+  "releases": [
+    "2017-03-01",
+    "2024-03-01"
+  ],
+  "tags": [
+    "backend",
+    "coding",
+    "frontend",
+    "new"
+  ],
+  "items": [
+    {
+      "id": "react",
+      "release": "2025-07-25",
+      "title": "React",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        486,
+        444
+      ]
+    },
+    {
+      "id": "spring-framework",
+      "release": "2025-07-25",
+      "title": "Spring Framework",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        369,
+        306
+      ]
+    },
+    {
+      "id": "java-21",
+      "release": "2025-07-25",
+      "title": "Java 21",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        440,
+        297
+      ]
+    },
+    {
+      "id": "apache-iceberg",
+      "release": "2025-07-25",
+      "title": "Apache Iceberg",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        679,
+        113
+      ]
+    },
+    {
+      "id": "dremio",
+      "release": "2025-07-25",
+      "title": "Dremio",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        101,
+        158
+      ]
+    },
+    {
+      "id": "apache-airflow",
+      "release": "2025-07-25",
+      "title": "Apache Airflow",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        313,
+        606
+      ]
+    },
+    {
+      "id": "project-nessie",
+      "release": "2025-07-25",
+      "title": "Project Nessie",
+      "ring": "assess",
+      "quadrant": "platforms-and-operations",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        108,
+        147
+      ]
+    },
+    {
+      "id": "amazon-s3",
+      "release": "2025-07-25",
+      "title": "Amazon S3",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        284,
+        100
+      ]
+    },
+    {
+      "id": "postgresql",
+      "release": "2025-07-25",
+      "title": "PostgreSQL",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        148,
+        447
+      ]
+    },
+    {
+      "id": "prometheus-grafana",
+      "release": "2025-07-25",
+      "title": "Prometheus + Grafana",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        479,
+        680
+      ]
+    },
+    {
+      "id": "keycloak",
+      "release": "2025-07-25",
+      "title": "Keycloak",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p></p>",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "architecture",
+        "medical-platform"
+      ],
+      "position": [
+        581,
+        229
+      ]
+    }
+  ]
+}

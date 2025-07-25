@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Страница — 1" id="hdKDt9vaOCe562YML2UJ">
+    <mxGraphModel dx="2212" dy="2686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-1" value="Q1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-2" value="Q2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-3" value="Q3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="930" y="430" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-4" value="Q4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="430" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="1750" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-7" value="Повышение отказоустойчивости и надежности (Active-Active)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-8" value="Инфраструктура" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="535" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-9" value="Продукт" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="700" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="1750" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-11" value="Масштабирование интеграционной шины" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-12" value="Создание системы мониторинга" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="555" width="980" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-14" value="Реализация требований защиты данных" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="555" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-15" value="Добавление новой платежной системы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-16" value="Возможность записи онлайн в клинику" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="730" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-17" value="Видео консультация с терапевтом" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-18" value="Получение списка лекарств в онлайн (через чат) со ссылками на товары" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="730" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-19" value="Онлайн просмотр заключений врача" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="730" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-20" value="Быстрый расчет кредита за медицинские услуги в компании" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="660" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQvCHIIJlqcXYXFje8c-21" value="Реализация системы подписки на онлайн консультации" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="665" y="660" width="520" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
